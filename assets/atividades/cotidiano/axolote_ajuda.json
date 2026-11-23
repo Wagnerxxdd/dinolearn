@@ -1,0 +1,16 @@
+{
+  "id": "axolote_cot_03",
+  "tipo": "multipla_escolha",
+  "pergunta": "O aquário começou a vazar água. O que fazer?",
+  "instrucao_audio": "O que a criança deve fazer?",
+  "imagem": "assets/images/atividades/aquario_vazando.png",
+  "alternativas": [
+    {"id": "adu", "texto": "Chamar um adulto"},
+    {"id": "bri", "texto": "Continuar brincando"},
+    {"id": "esc", "texto": "Esconder o vazamento"},
+    {"id": "col", "texto": "Colocar brinquedos sobre a água"}
+  ],
+  "resposta_correta": "adu",
+  "dica_erro_1": "Algumas situações precisam da ajuda de um adulto.",
+  "apoio_erro_2": "A criança está se afastando e chamando o responsável."
+}

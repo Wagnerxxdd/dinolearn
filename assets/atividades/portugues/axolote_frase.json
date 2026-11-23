@@ -1,0 +1,17 @@
+{
+  "id": "axolote_port_03",
+  "tipo": "ordenacao",
+  "pergunta": "Organize as palavras: aquário / no / nada / axolote / O.",
+  "instrucao_audio": "Organize a frase.",
+  "imagem": "assets/images/atividades/axolote_curioso.png",
+  "alternativas": [
+    {"id": "o", "texto": "O"},
+    {"id": "axo", "texto": "axolote"},
+    {"id": "nada", "texto": "nada"},
+    {"id": "no", "texto": "no"},
+    {"id": "aqu", "texto": "aquário"}
+  ],
+  "resposta_correta": "O axolote nada no aquário",
+  "dica_erro_1": "Comece com as palavras 'O axolote'.",
+  "apoio_erro_2": "As palavras 'O axolote' já estão na frente para você."
+}

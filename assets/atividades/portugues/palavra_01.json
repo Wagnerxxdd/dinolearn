@@ -1,0 +1,13 @@
+{
+  "id": "port_palavra_01",
+  "tipo": "leitura",
+  "pergunta": "Qual destas palavras é 'CASA'?",
+  "instrucao_audio": "Aponte para a palavra casa.",
+  "imagem": "assets/images/atividades/casa.png",
+  "alternativas": [
+    {"id": "mala", "texto": "MALA"},
+    {"id": "casa", "texto": "CASA"},
+    {"id": "bola", "texto": "BOLA"}
+  ],
+  "resposta_correta": "casa"
+}

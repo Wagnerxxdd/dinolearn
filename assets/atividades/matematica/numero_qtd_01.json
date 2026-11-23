@@ -1,0 +1,13 @@
+{
+  "id": "mat_num_qtd_01",
+  "tipo": "associacao",
+  "pergunta": "Qual número representa a quantidade de bolas?",
+  "instrucao_audio": "Clique no número que combina com as bolas.",
+  "imagem": "assets/images/atividades/bolas_5.png",
+  "alternativas": [
+    {"id": "5", "texto": "5"},
+    {"id": "3", "texto": "3"},
+    {"id": "8", "texto": "8"}
+  ],
+  "resposta_correta": "5"
+}

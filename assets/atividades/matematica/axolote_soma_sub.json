@@ -1,0 +1,16 @@
+{
+  "id": "axolote_mat_03",
+  "tipo": "multipla_escolha",
+  "pergunta": "Em dois aquários há quatro axolotes em cada um. Dois foram levados. Quantos ficaram?",
+  "instrucao_audio": "Conte os axolotes.",
+  "imagem": "assets/images/atividades/axolotes_aquario.png",
+  "alternativas": [
+    {"id": "5", "texto": "5"},
+    {"id": "6", "texto": "6"},
+    {"id": "7", "texto": "7"},
+    {"id": "8", "texto": "8"}
+  ],
+  "resposta_correta": "6",
+  "dica_erro_1": "Primeiro descubra quantos axolotes havia nos dois aquários.",
+  "apoio_erro_2": "Veja os dois axolotes sendo retirados visualmente."
+}

@@ -1,0 +1,31 @@
+name: tea_app
+description: "Aplicativo educativo para crianças com TEA."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  crypto: ^3.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/atividades/matematica/
+    - assets/atividades/portugues/
+    - assets/atividades/emocoes/
+    - assets/atividades/cotidiano/
+    - assets/images/
+    - assets/images/atividades/
+    - assets/images/avatars/

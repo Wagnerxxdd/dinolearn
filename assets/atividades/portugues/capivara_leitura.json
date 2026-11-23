@@ -1,0 +1,15 @@
+{
+  "id": "capivara_port_02",
+  "tipo": "multipla_escolha",
+  "pergunta": "Leia: 'A capivara entrou no rio.' Onde a capivara entrou?",
+  "instrucao_audio": "Escolha onde a capivara entrou.",
+  "imagem": "assets/images/atividades/capivara_nadando.png",
+  "alternativas": [
+    {"id": "rio", "texto": "No rio"},
+    {"id": "esc", "texto": "Na escola"},
+    {"id": "cas", "texto": "Na casa"}
+  ],
+  "resposta_correta": "rio",
+  "dica_erro_1": "Procure na frase o lugar onde a capivara entrou.",
+  "apoio_erro_2": "A palavra 'rio' está destacada na frase."
+}

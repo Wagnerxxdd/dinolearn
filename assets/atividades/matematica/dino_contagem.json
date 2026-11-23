@@ -1,0 +1,15 @@
+{
+  "id": "dino_mat_01",
+  "tipo": "multipla_escolha",
+  "pergunta": "Quantos dinossauros aparecem?",
+  "instrucao_audio": "Conte os dinossauros.",
+  "imagem": "assets/images/atividades/dino_quatro.png",
+  "alternativas": [
+    {"id": "3", "texto": "3"},
+    {"id": "4", "texto": "4"},
+    {"id": "5", "texto": "5"}
+  ],
+  "resposta_correta": "4",
+  "dica_erro_1": "Conte os dinossauros um por um.",
+  "apoio_erro_2": "Veja os quatro dinossauros destacados individualmente."
+}

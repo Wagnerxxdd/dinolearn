@@ -1,0 +1,15 @@
+{
+  "id": "capivara_cot_02",
+  "tipo": "multipla_escolha",
+  "pergunta": "A capivara quer usar um brinquedo que outra está usando. O que fazer?",
+  "instrucao_audio": "O que a capivara deve fazer?",
+  "imagem": "assets/images/atividades/capivara_brincando.png",
+  "alternativas": [
+    {"id": "ped", "texto": "Pedir para brincar"},
+    {"id": "peg", "texto": "Pegar sem pedir"},
+    {"id": "gri", "texto": "Gritar"}
+  ],
+  "resposta_correta": "ped",
+  "dica_erro_1": "Pense em como pedir o brinquedo com educação.",
+  "apoio_erro_2": "A capivara deve perguntar: 'Posso brincar também?'."
+}

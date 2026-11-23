@@ -1,0 +1,15 @@
+{
+  "id": "capivara_mat_02",
+  "tipo": "multipla_escolha",
+  "pergunta": "Três capivaras estão no rio e duas estão na margem. Quantas aparecem ao todo?",
+  "instrucao_audio": "Conte todas as capivaras.",
+  "imagem": "assets/images/atividades/capivaras_rio.png",
+  "alternativas": [
+    {"id": "4", "texto": "4"},
+    {"id": "5", "texto": "5"},
+    {"id": "6", "texto": "6"}
+  ],
+  "resposta_correta": "5",
+  "dica_erro_1": "Conte primeiro as capivaras do rio e depois as da margem.",
+  "apoio_erro_2": "Os dois grupos estão aproximados para você contar em sequência."
+}

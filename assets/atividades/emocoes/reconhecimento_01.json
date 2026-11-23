@@ -1,0 +1,13 @@
+{
+  "id": "emo_recon_01",
+  "tipo": "emocoes",
+  "pergunta": "Como esta criança está se sentindo?",
+  "instrucao_audio": "Observe o rosto e escolha o sentimento.",
+  "imagem": "assets/images/atividades/feliz.png",
+  "alternativas": [
+    {"id": "triste", "texto": "Triste"},
+    {"id": "feliz", "texto": "Feliz"},
+    {"id": "bravo", "texto": "Bravo"}
+  ],
+  "resposta_correta": "feliz"
+}

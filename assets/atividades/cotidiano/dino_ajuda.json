@@ -1,0 +1,15 @@
+{
+  "id": "dino_cot_01",
+  "tipo": "multipla_escolha",
+  "pergunta": "O amigo está triste. O que o dinossauro pode fazer?",
+  "instrucao_audio": "Como o dinossauro pode ajudar?",
+  "imagem": "assets/images/atividades/dino_triste.png",
+  "alternativas": [
+    {"id": "conv", "texto": "Conversar com o amigo"},
+    {"id": "vira", "texto": "Virar as costas"},
+    {"id": "empu", "texto": "Empurrar o amigo"}
+  ],
+  "resposta_correta": "conv",
+  "dica_erro_1": "Escolha uma ação que ajude o amigo a se sentir melhor.",
+  "apoio_erro_2": "A cena dos dois dinossauros conversando está destacada."
+}

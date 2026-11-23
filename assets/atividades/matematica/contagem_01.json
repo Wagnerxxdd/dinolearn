@@ -1,0 +1,22 @@
+{
+  "id": "mat_contagem_01",
+  "tipo": "multipla_escolha",
+  "pergunta": "Quantos objetos aparecem na imagem?",
+  "instrucao_audio": "Conte os objetos e escolha a resposta correta.",
+  "imagem": "assets/images/atividades/contagem_01.png",
+  "alternativas": [
+    {
+      "id": "a",
+      "texto": "2"
+    },
+    {
+      "id": "b",
+      "texto": "3"
+    },
+    {
+      "id": "c",
+      "texto": "4"
+    }
+  ],
+  "resposta_correta": "b"
+}

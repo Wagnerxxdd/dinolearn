@@ -1,0 +1,15 @@
+{
+  "id": "dino_port_01",
+  "tipo": "multipla_escolha",
+  "pergunta": "Qual é a palavra DINOSSAURO?",
+  "instrucao_audio": "Escolha a palavra dinossauro.",
+  "imagem": "assets/images/atividades/dino_unico.png",
+  "alternativas": [
+    {"id": "dino", "texto": "DINOSSAURO"},
+    {"id": "capi", "texto": "CAPIVARA"},
+    {"id": "axo", "texto": "AXOLOTE"}
+  ],
+  "resposta_correta": "dino",
+  "dica_erro_1": "A palavra correta começa com a letra D.",
+  "apoio_erro_2": "A letra inicial D está destacada na palavra correta."
+}
